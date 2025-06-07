@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://brianlewis2.github.io/protonmods/sitemap.xml
